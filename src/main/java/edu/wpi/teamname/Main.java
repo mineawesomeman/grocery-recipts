@@ -7,6 +7,6 @@ public class Main {
     System.out.println("David");
     System.out.println("Aidan Syrgak");
     System.out.println("Kseniia");
-    System.out.println("Alex");
+    System.out.println("Owen Rago");
   }
 }
